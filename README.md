@@ -1,7 +1,7 @@
 <!-- GitHub Profile README - Fixed & Optimized -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C4CC&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Akash+Maity!;Passionate+Coder+%26+Tech+Enthusiast;Building+Scalable%2C+User-Friendly+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C4CC&center=true&vCenter=true&width=940&lines=Hi%2C+I'm+Akash+Maity!;Passionate+Coder+%26+Tech+Enthusiast;Building+Scalable%2C+User-Friendly+Application" />
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C4CC&height=90&section=footer"/>
 
 </div>
